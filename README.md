@@ -58,9 +58,6 @@ Contributions are welcome! To contribute:
 3. Commit your changes and push to your fork.
 4. Open a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 For support or inquiries, reach out to [ScreenSlauth](https://github.com/ScreenSlauth).
 
